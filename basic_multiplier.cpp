@@ -1,4 +1,3 @@
-# Basic multiplier example
 #include <iostream>
 #include <vector>
 
